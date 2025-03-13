@@ -1,0 +1,63 @@
+2025-02-28 22:35:02,424 : INFO : Running Daily Update for Boat shop 
+2025-02-28 22:35:05,772 : INFO : Fetching  Page 1...
+2025-02-28 22:36:52,890 : INFO : Request has been sent
+2025-02-28 22:36:52,933 : INFO : Results found comparing agains previous ids
+2025-02-28 22:36:53,016 : INFO : Page 1 done
+2025-02-28 22:36:53,017 : INFO :  Found 1 new listings
+2025-02-28 22:36:53,017 : INFO : All New data scraped
+2025-03-01 22:35:03,824 : INFO : Running Daily Update for Boat shop 
+2025-03-01 22:35:07,054 : INFO : Fetching  Page 1...
+2025-03-01 22:35:09,847 : INFO : Request has been sent
+2025-03-01 22:35:09,889 : INFO : Results found comparing agains previous ids
+2025-03-01 22:35:09,977 : INFO : Page 1 done
+2025-03-01 22:35:09,978 : INFO :  Found 4 new listings
+2025-03-01 22:35:09,979 : INFO : All New data scraped
+2025-03-02 22:35:03,607 : INFO : Running Daily Update for Boat shop 
+2025-03-02 22:35:06,477 : INFO : Fetching  Page 1...
+2025-03-02 22:35:27,804 : INFO : Request has been sent
+2025-03-02 22:35:27,845 : INFO : Results found comparing agains previous ids
+2025-03-02 22:35:27,872 : INFO : Page 1 done
+2025-03-02 22:35:27,872 : INFO :  Found 1 new listings
+2025-03-02 22:35:27,872 : INFO : All New data scraped
+2025-03-04 22:35:03,412 : INFO : Running Daily Update for Boat shop 
+2025-03-04 22:35:07,567 : INFO : Fetching  Page 1...
+2025-03-04 22:35:28,030 : INFO : Request has been sent
+2025-03-04 22:35:28,069 : INFO : Results found comparing agains previous ids
+2025-03-04 22:35:28,119 : INFO : Page 1 done
+2025-03-04 22:35:28,119 : INFO :  Found 4 new listings
+2025-03-04 22:35:28,119 : INFO : All New data scraped
+2025-03-08 22:35:02,953 : INFO : Running Daily Update for Boat shop 
+2025-03-08 22:35:07,214 : INFO : Fetching  Page 1...
+2025-03-08 22:35:11,069 : INFO : Request has been sent
+2025-03-08 22:35:11,116 : INFO : Results found comparing agains previous ids
+2025-03-08 22:35:11,163 : INFO : Page 1 done
+2025-03-08 22:35:11,163 : INFO :  Found 6 new listings
+2025-03-08 22:35:11,163 : INFO : All New data scraped
+2025-03-09 22:35:09,600 : INFO : Running Daily Update for Boat shop 
+2025-03-09 22:35:13,972 : INFO : Fetching  Page 1...
+2025-03-09 22:35:46,696 : INFO : Request has been sent
+2025-03-09 22:35:46,785 : INFO : Results found comparing agains previous ids
+2025-03-09 22:35:46,905 : INFO : Page 1 done
+2025-03-09 22:35:46,906 : INFO :  Found 1 new listings
+2025-03-09 22:35:46,907 : INFO : All New data scraped
+2025-03-10 22:35:03,847 : INFO : Running Daily Update for Boat shop 
+2025-03-10 22:35:09,865 : INFO : Fetching  Page 1...
+2025-03-10 22:35:37,061 : INFO : Request has been sent
+2025-03-10 22:35:37,128 : INFO : Results found comparing agains previous ids
+2025-03-10 22:35:37,251 : INFO : Page 1 done
+2025-03-10 22:35:37,251 : INFO :  Found 1 new listings
+2025-03-10 22:35:37,252 : INFO : All New data scraped
+2025-03-11 22:35:03,651 : INFO : Running Daily Update for Boat shop 
+2025-03-11 22:35:07,538 : INFO : Fetching  Page 1...
+2025-03-11 22:35:42,082 : INFO : Request has been sent
+2025-03-11 22:35:42,119 : INFO : Results found comparing agains previous ids
+2025-03-11 22:35:42,209 : INFO : Page 1 done
+2025-03-11 22:35:42,209 : INFO :  Found 0 new listings
+2025-03-11 22:35:42,210 : INFO : All New data scraped
+2025-03-12 22:35:03,390 : INFO : Running Daily Update for Boat shop 
+2025-03-12 22:35:09,521 : INFO : Fetching  Page 1...
+2025-03-12 22:35:28,611 : INFO : Request has been sent
+2025-03-12 22:35:28,693 : INFO : Results found comparing agains previous ids
+2025-03-12 22:35:28,823 : INFO : Page 1 done
+2025-03-12 22:35:28,823 : INFO :  Found 3 new listings
+2025-03-12 22:35:28,823 : INFO : All New data scraped
